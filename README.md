@@ -25,7 +25,8 @@ pip install torch torchvision numpy opencv-python matplotlib scikit-image pandas
 
 若无数据集，程序自动生成合成测试图像。
 
-![Uploading image.png…]()
+<img width="1028" height="565" alt="image" src="https://github.com/user-attachments/assets/51944990-3fbe-4cf0-8c70-0904d62e5e74" />
+
 
 
 ## 实验内容
